@@ -1,8 +1,0 @@
-typing again from shell to store in a file
-new line
-control d will now be pressed
-append this text to previous one
-new row
-new row
-multine comments were added
-no value rows
