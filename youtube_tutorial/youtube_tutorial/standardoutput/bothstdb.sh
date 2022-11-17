@@ -1,0 +1,4 @@
+
+
+
+ls +al >& filebothb.txt
